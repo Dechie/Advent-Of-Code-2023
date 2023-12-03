@@ -14,9 +14,9 @@ If you'd like to support Advent of Code, you can do so indirectly by helping to 
 
 ## Table of Contents
 
-[Day one solutions](https://github.com/Dechie/Advent-Of-Code-2023/tree/main/day-01)
+-[Day one solutions](https://github.com/Dechie/Advent-Of-Code-2023/tree/main/day-01)
 
-[Day two solutions](https://github.com/Dechie/Advent-Of-Code-2023/tree/main/day-02)
+-[Day two solutions](https://github.com/Dechie/Advent-Of-Code-2023/tree/main/day-02)
 
-[Day three solutions](https://github.com/Dechie/Advent-Of-Code-2023/tree/main/day-03)
+-[Day three solutions](https://github.com/Dechie/Advent-Of-Code-2023/tree/main/day-03)
 
